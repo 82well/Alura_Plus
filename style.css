@@ -19,6 +19,7 @@ body {
     background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
+    display: grid;
 }
 
 .container {
@@ -30,4 +31,5 @@ body {
     border-radius: 5px;
     padding: 1em;
     color: var(--branco-principal);
+    display: block;
 }
